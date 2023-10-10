@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá, 👋
 
 # Charlie
-Bem vindo ao meu perfil do Github!
+Bem vindo ao meu perfil do Github, abaixo saiba mais sobre alguns projetos e aprendizados.
+
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/charlie-cidral-samoel-146519123/)
@@ -29,6 +30,8 @@ Bem vindo ao meu perfil do Github!
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CharlieCidral&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
+(P.S. Em breve algumas atualizações).
 <!--
 **CharlieCidral/CharlieCidral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
