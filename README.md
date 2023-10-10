@@ -1,6 +1,5 @@
 ### Olá, 👋
 
-# Charlie
 Bem vindo ao meu perfil do Github, abaixo saiba mais sobre alguns projetos e aprendizados.
 
 ## Social
