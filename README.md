@@ -34,8 +34,7 @@ Bem vindo ao meu perfil do Github, continue a leitura e saiba um pouco mais sobr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlieCidral&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CharlieCidral&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CharlieCidral&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=html&langs_count=10)
 
 
 <!--
